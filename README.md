@@ -2,7 +2,7 @@
 
 ![](./preview.png)
 
-Galeria criada com recurso grid dentro do CSS
+Site de receita criado com HTML e CSS
 
 ## Tecnologias
 
